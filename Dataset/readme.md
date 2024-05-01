@@ -34,6 +34,7 @@ The license for the CelebFaces dataset may vary depending on the source. Please 
 We would like to express our gratitude to the creators and contributors of the CelebFaces dataset for making it publicly available for research and development purposes.
 
 ## Dataset Link
-[Link to download CelebFaces dataset]([#](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset/discussion))
+
+Link to download CelebFaces dataset
 
 For more information and updates, please visit the official website or repository associated with the CelebFaces dataset.
