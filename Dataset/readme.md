@@ -35,6 +35,6 @@ We would like to express our gratitude to the creators and contributors of the C
 
 ## Dataset Link
 
-Link to download CelebFaces dataset
+[[Link to download CelebFaces dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset/discussion)](#)
 
 For more information and updates, please visit the official website or repository associated with the CelebFaces dataset.
