@@ -4,7 +4,7 @@
 ![000001](https://github.com/Shiv162003/GAN-ARS-Div-B_Comparative-analysis/assets/120489897/30fa3191-d4c4-4acf-beed-70c0e201eb50)
 ![000010](https://github.com/Shiv162003/GAN-ARS-Div-B_Comparative-analysis/assets/120489897/a91543e9-aaad-4c1e-9115-6e05631b93dd)
 ![000009](https://github.com/Shiv162003/GAN-ARS-Div-B_Comparative-analysis/assets/120489897/65e45cf8-a0b2-4178-88cd-9056862c6b0c)
-![000008](https://github.com/Shiv162003/GAN-ARS-Div-B_Comparative-analysis/assets/120489897/33873198-8477-424b-a11b-40d92484b4b8)
+
 
 ## Overview
 The CelebFaces dataset is a collection of celebrity face images commonly used for research and development in machine learning, computer vision, and image processing tasks. It contains a diverse set of celebrity images captured from various sources, including movies, television, and public appearances.
@@ -34,6 +34,6 @@ The license for the CelebFaces dataset may vary depending on the source. Please 
 We would like to express our gratitude to the creators and contributors of the CelebFaces dataset for making it publicly available for research and development purposes.
 
 ## Dataset Link
-[Link to download CelebFaces dataset](#)
+[Link to download CelebFaces dataset]([#](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset/discussion))
 
 For more information and updates, please visit the official website or repository associated with the CelebFaces dataset.
