@@ -57,6 +57,3 @@ During training, sample output images are saved in the `images/` directory at sp
 
 This implementation is based on the Pix2Pix paper by Phillip Isola et al. and the official Pix2Pix implementation provided by the TensorFlow team.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
