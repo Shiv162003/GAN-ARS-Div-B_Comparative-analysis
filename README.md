@@ -2,6 +2,8 @@
 
 ## Objective
 The objective of this comparative analysis is to evaluate and compare the performance of different GAN architectures for generating celebrity faces. We aim to assess image quality, diversity, and realism in the generated samples.
+## WorkFlow
+![image](https://github.com/Shiv162003/GAN-ARS-Div-B_Comparative-analysis/assets/120489897/764d0215-4856-4a8a-a1de-4c511c538533)
 
 ## Comparable Architectures
 We selected two GAN architectures, ProGAN (Progressive GAN) and DCGAN (Deep Convolutional GAN), which are commonly used for image generation tasks and are relevant to our objective of generating celebrity faces. These architectures have similar complexities and are applicable to our dataset.
