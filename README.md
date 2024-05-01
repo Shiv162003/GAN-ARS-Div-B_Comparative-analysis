@@ -1,8 +1,22 @@
 # Comparative Analysis of GAN Architectures for Celebrity Face Generation
 
+## Table of Contents
+1. [Objective](#objective)
+2. [Workflow](#workflow)
+3. [Comparable Architectures](#comparable-architectures)
+4. [Dataset Preparation](#dataset-preparation)
+5. [Experimental Setup](#experimental-setup)
+6. [Training Procedure](#training-procedure)
+7. [Evaluation Metrics](#evaluation-metrics)
+8. [Visual Inspection](#visual-inspection)
+9. [Statistical Analysis](#statistical-analysis)
+10. [Interpretation and Discussion](#interpretation-and-discussion)
+11. [Conclusion](#conclusion)
+
 ## Objective
 The objective of this comparative analysis is to evaluate and compare the performance of different GAN architectures for generating celebrity faces. We aim to assess image quality, diversity, and realism in the generated samples.
-## WorkFlow
+
+## Workflow
 ![image](https://github.com/Shiv162003/GAN-ARS-Div-B_Comparative-analysis/assets/120489897/764d0215-4856-4a8a-a1de-4c511c538533)
 
 ## Comparable Architectures
