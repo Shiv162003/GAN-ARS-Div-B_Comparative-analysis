@@ -1,8 +1,10 @@
 # Photorealistic Face Generator
 
 This repository contains code for training a photorealistic face generator using Generative Adversarial Networks (GANs). The code is written in Python using the Keras library with TensorFlow backend.
-![image](https://github.com/Shiv162003/GAN-ARS-Div-B_Comparative-analysis/assets/120489897/c99614b6-dfd3-433c-9a39-a1af6efa1700)
+
 # Architecture
+![image](https://github.com/Shiv162003/GAN-ARS-Div-B_Comparative-analysis/assets/120489897/c99614b6-dfd3-433c-9a39-a1af6efa1700)
+
 ## Prerequisites
 - Python 3.x
 - Keras
